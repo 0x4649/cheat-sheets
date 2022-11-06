@@ -281,5 +281,5 @@ Get-DomainPolicyData | select -ExpandProperty SystemAccess
 
 ## References
 
-https://powersploit.readthedocs.io/en/latest/
-https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993
+- [PowerSploit](https://powersploit.readthedocs.io/en/latest/)
+- [PowerView-3.0 tips and tricks](https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993)
